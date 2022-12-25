@@ -1,3 +1,4 @@
 # space-invarder
-i try create simple game using pyhton
+simple game using pygame
+
 ![](https://github.com/ferytell/space-invarder/blob/master/image.png)
