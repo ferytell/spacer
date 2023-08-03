@@ -1,4 +1,5 @@
-# space-invarder
-simple game using pygame
+# Spacer
+simple shooter game, wrote with python pygame
+![me](https://github.com/ferytell/spacer/blob/master/demo-spacer.gif)
 
-![](https://github.com/ferytell/space-invarder/blob/master/image.png)
+just copy tou your machine and run
